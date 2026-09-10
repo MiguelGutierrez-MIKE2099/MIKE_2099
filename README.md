@@ -4,7 +4,7 @@
 
 ## About Me 😃
 
-🎓 **SOFTWARE DEVELOPMENT ENGINEERING STUDENT** (Expected Graduation: Dec 2026 @ Tecmilenio University) / **SOFTWARE DEVELOPER TECHNOLOGIST** (CETI Tonalá) 🟢
+🎓 **SOFTWARE DEVELOPMENT ENGINEER**: Jun 2026 @ Tecmilenio University) / **SOFTWARE DEVELOPER TECHNOLOGIST** (CETI Tonalá) 🟢
 💻 **Technical Lead & Full-Stack Developer @ Kresko** | Ex-Full-Stack Developer @ BSD Development S.A. de C.V. 🌐
 📝 **Experience & Roles:** Business Logic Engineering, Database Migration & Architecture (MS Access to SQL/MySQL), Modern Web Frameworks (Laravel, UIKit), AI-Augmented Development, System Automation & Microsoft Graph API 🛠️
 🏆 **Key Achievements:** Automated fiscal date calculation & notifications driving deadline errors to 0% / Migration of legacy MS Access to SQL Server eliminating ERP outages / Creator of a Digital Ballot Box (CETI) 🗳️
@@ -74,11 +74,5 @@
 </table>
 
 ---
-
-## GitHub Stats 📊
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true" />
+165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
