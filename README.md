@@ -45,15 +45,13 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://via.placeholder.com/500x280/1e293b/00ff66?text=Digital+Ballot+Box" width="100%" alt="Digital Ballot Box" />
       <br />
       <b>🗳️ Digital Ballot Box for Electoral Processes</b>
       <p><i>CETI Graduation Project</i></p>
       <code>Java</code> <code>Arduino</code> <code>MySQL</code> <code>Web</code>
     </td>
     <td width="50%" align="center">
-      <img src="https://via.placeholder.com/500x280/1e293b/38bdf8?text=Vidanta+Group+Challenge" width="100%" alt="Vidanta Challenge" />
-      <br />
+      <img src="https://via.placeholder.com/500x280/1e293b/38bdf8?text=Vidanta+Group+Challenge" width="100%" alt="Vidanta Challenge" />      <br />
       <b>💡 Vidanta Challenge Tech Solution</b>
       <p><i>Innovation MeetUp 2024 (Tecmilenio)</i></p>
       <code>Agile</code> <code>Web</code> <code>Databases</code>
@@ -61,14 +59,12 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://via.placeholder.com/500x280/1e293b/f43f5e?text=Web+App+Development" width="100%" alt="BSD Web App" />
       <br />
       <b>🌐 Web Application Development</b>
       <p><i>BSD Development S.A. de C.V.</i></p>
       <code>Full-Stack</code> <code>Databases</code> <code>Web Apps</code>
     </td>
     <td width="50%" align="center">
-      <img src="https://via.placeholder.com/500x280/1e293b/a855f7?text=Network+Simulation" width="100%" alt="Network Simulation" />
       <br />
       <b>📡 Network Infrastructure Simulation</b>
       <p><i>Network Infrastructure Projects</i></p>
@@ -78,11 +74,3 @@
 </table>
 
 ---
-
-## GitHub Stats 📊
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
