@@ -50,8 +50,8 @@
       <p><i>CETI Graduation Project</i></p>
       <code>Java</code> <code>Arduino</code> <code>MySQL</code> <code>Web</code>
     </td>
-    <td width="50%" align="center">
-      <img src="https://via.placeholder.com/500x280/1e293b/38bdf8?text=Vidanta+Group+Challenge" width="100%" alt="Vidanta Challenge" />      <br />
+    <td width="50%" align="center">   
+      <br />
       <b>💡 Vidanta Challenge Tech Solution</b>
       <p><i>Innovation MeetUp 2024 (Tecmilenio)</i></p>
       <code>Agile</code> <code>Web</code> <code>Databases</code>
